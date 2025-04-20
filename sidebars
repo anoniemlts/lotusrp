@@ -1,0 +1,14 @@
+module.exports = {
+  tutorialSidebar: [
+    {
+      type: 'category',
+      label: 'Algemene Bepalingen',
+      items: ['A1', 'A2', 'A3', 'A4'],
+    },
+    {
+      type: 'category',
+      label: 'Overtredingen',
+      items: ['artikel-1', 'artikel-2', 'artikel-3'],
+    },
+  ],
+};
